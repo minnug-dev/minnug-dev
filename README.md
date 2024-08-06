@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:F9C1AF,100:F9C1AF&width=1500&height=240&section=header&text=Hello%20World👋%20I'm%20Minjoo!&fontSize=50&fontColor=ffffff )  
-
 <p align='center'>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=FBB8A8&height=300&section=header&text=Hello%20World👋%20I'm%20Minjoo!&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20Front-end%20Developer&descAlignY=52&descAlign=72"/>
 </p>
